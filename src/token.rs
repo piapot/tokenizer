@@ -4,7 +4,7 @@ pub enum TokenKind {
     Linefeed,
     Digit,
     Word,
-    Symbol,
+    Punctuation,
     Unknown,
 }
 
